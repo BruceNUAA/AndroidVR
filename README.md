@@ -1,10 +1,8 @@
-# Project Name
-
-AndroidVR 
-
+# Project Name AndroidVR 
+<img src="Assets4Reference/Android/drawable-xxhdpi/MDEVVR.png" align="right" />
 ## Descripton
 
-Sample Unreal Engine experience based off UE's VR template
+Sample Unreal Engine experience based off UE's VR template and w/Google Cardboard.
 
 ## Usage
 
